@@ -1,0 +1,4 @@
+<launch>
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find gps_path_puh)/launch/rviz_bag.rviz" />
+ <!--    -->
+</launch>
